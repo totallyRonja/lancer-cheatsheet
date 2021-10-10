@@ -21,15 +21,15 @@ On your turn, you can make a standard move and take up to two quick actions or o
 - BOOST: Move spaces equal to your SPEED.
 - RAM: Attempt to knock a target down or back.
 - GRAPPLE: Attempt to grab a target, potentially IMMOBILIZING or riding them.
-- QUICK TECH: Perform quick electronic warfare or system-boosting activities. 
-  - (unlike all other actions, you can quick tech twice per round with different actions)
+- [QUICK TECH](/combat/tech.md#quick-tech): Perform quick electronic warfare or system-boosting activities. 
+  - (unlike all other actions, you can quick tech multiple times per round as long as you use different options)
 - HIDE: Attempt to hide.
 - SEARCH: Look for a HIDDEN target.
 
 ## Full Actions
 - BARRAGE: Attack with two different weapons or a single SUPERHEAVY weapon.
-- FULL TECH: Perform two QUICK TECH actions or one more complex tech action.
-  - doing two QUICK TECH actions via this is the same as doing them separately ¯\\_(ツ)_/¯
+- [FULL TECH](/combat/tech.md#full-tech): Perform two QUICK TECH actions or one more complex tech action.
+  - doing two QUICK TECH actions via this allows you to use the same option twice.
 - IMPROVISED ATTACK: Attack with a fist or improvised melee weapon.
 - STABILIZE: Reload, patch up, and cool down a mech, or end conditions affecting it.
 - DISENGAGE: Move safely, avoiding reactions and engagement.
@@ -43,10 +43,10 @@ On your turn, you can make a standard move and take up to two quick actions or o
 - PREPARE (quick): Hold a quick action for a pecified trigger.
 - SKILL CHECK (full): Perform an activity that has a clear goal and a chance of failure.
 
-## [Reactions](./reactions.md)
+## [Reactions](/combat/reactions.md)
   - Each reaction can only be taken once between your own turns and you can only take one reaction per one characters turn.
-- [BRACE](./reactions.md#BRACE): Get ready for impact, reducing damage at the cost of next turn’s actions.
-- [OVERWATCH](./reactions.md#OVERWATCH): Attack a nearby target if they attempt to move.
+- [BRACE](/combat/reactions.md#BRACE): Get ready for impact, reducing damage at the cost of next turn’s actions.
+- [OVERWATCH](/combat/reactions.md#OVERWATCH): Attack a nearby target if they attempt to move.
 
 ## Overcharge
 - Push a mech past its limits, gaining an extra quick action as a FREE ACTION at the cost of heat.
