@@ -43,10 +43,10 @@ On your turn, you can make a standard move and take up to two quick actions or o
 - PREPARE (quick): Hold a quick action for a pecified trigger.
 - SKILL CHECK (full): Perform an activity that has a clear goal and a chance of failure.
 
-## Reactions
+## [Reactions](./reactions.md)
   - Each reaction can only be taken once between your own turns and you can only take one reaction per one characters turn.
-- BRACE: Get ready for impact, reducing damage at the cost of next turn’s actions.
-- OVERWATCH: Attack a nearby target if they attempt to move.
+- [BRACE](./reactions.md#BRACE): Get ready for impact, reducing damage at the cost of next turn’s actions.
+- [OVERWATCH](./reactions.md#OVERWATCH): Attack a nearby target if they attempt to move.
 
 ## Overcharge
 - Push a mech past its limits, gaining an extra quick action as a FREE ACTION at the cost of heat.
