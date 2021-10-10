@@ -28,8 +28,8 @@ On your turn, you can make a standard move and take up to two quick actions or o
 
 ## Full Actions
 - BARRAGE: Attack with two different weapons or a single SUPERHEAVY weapon.
-- [FULL TECH](/combat/tech.md#full-tech): Perform two QUICK TECH actions or one more complex tech action.
-  - doing two QUICK TECH actions via this allows you to use the same option twice.
+- [FULL TECH](/combat/tech.md#full-tech): Perform two [QUICK TECH](/combat/tech.md#quick-tech) actions or one more complex tech action.
+  - doing two [QUICK TECH](/combat/tech.md#quick-tech) actions via this allows you to use the same option twice.
 - IMPROVISED ATTACK: Attack with a fist or improvised melee weapon.
 - STABILIZE: Reload, patch up, and cool down a mech, or end conditions affecting it.
 - DISENGAGE: Move safely, avoiding reactions and engagement.
