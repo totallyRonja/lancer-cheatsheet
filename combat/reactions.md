@@ -15,7 +15,6 @@ Due to the stress of bracing, you cannot take reactions until the end of your ne
 ## OVERWATCH
 When you OVERWATCH, you control and defend the space around your mech from enemy incursion through pilot skill, reflexes, or finely tuned subsystems.
 
-Unless specified otherwise, all weapons default to
-1 THREAT.
+Unless specified otherwise, all weapons default to 1 THREAT.
 - Trigger: A hostile character starts any movement (including BOOST and other actions) inside one of your weapons’ THREAT❎.
 - Effect: Trigger OVERWATCH, immediately using that weapon to SKIRMISH against that character as a reaction, before they move.
