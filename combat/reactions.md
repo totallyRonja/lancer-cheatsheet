@@ -13,7 +13,7 @@ When you BRACE, you ready your mech against incoming fire.
 Due to the stress of bracing, you cannot take reactions until the end of your next turn and on that turn, you can only take one quick action – you cannot OVERCHARGE, move normally, take full actions, or take free actions.
 
 ## Overwatch
-When you OVERWATCH, you control and defend the space around your mech from enemy incursion through pilot skill, reflexes, or finely tuned subsystems.
+When you OVERWATCH, you control and defend the space around your mech from enemy incursion through pilot skill, reflexes, or finely tuned subsystems. (you dont need to overwatch actively, you can always use the reaction if the trigger is met unless you already used it once inbetween your turns)
 
 Unless specified otherwise, all weapons default to 1 THREAT❌.
 - Trigger: A hostile character starts any movement (including BOOST and other actions) inside one of your weapons’ THREAT❌.
