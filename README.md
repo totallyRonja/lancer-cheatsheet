@@ -5,4 +5,4 @@ This is supposed to be a reference of most of the rules of lancer, put into usef
 Lancer is a mech space TTRPG you can get here <https://massif-press.itch.io/corebook-pdf>
 
 
-Of what exists the most relevant jumping off point right now is probably the [combat action reference](/combat/action-reference)
+Of what exists the most relevant jumping off point right now is probably the [combat action reference](/combat/action-reference.md)
